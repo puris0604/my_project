@@ -9,6 +9,10 @@
 .zsh_sessions/
 venv/
 __pycache__/
+.json
+
+
+
 
 
 
